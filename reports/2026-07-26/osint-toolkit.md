@@ -5,16 +5,19 @@
 > Heuristic, tool-generated review. Findings are signals for a human to confirm, not verdicts.
 
 ## Snapshot
-- Source files: **12**  |  Lines of code: **602**
-- Languages: Python 513, Markdown 37, TOML 25, YAML 20, Batch 7
+- Source files: **12**  |  Lines of code: **638**
+- Languages: Python 513, Markdown 73, TOML 25, YAML 20, Batch 7
 - Python files: **8**
 - Tests present: ✅  |  CI: ✅  |  README: ✅  |  LICENSE: ✅
+
+## Changes since last review
+- 🆕 Baseline review — first time this repo was reviewed (HEAD `f5e6857`).
 
 ## Findings
 - ✅ No Python syntax errors.
 - ✅ No obvious hard-coded secrets detected.
 ### 🧹 Style & maintainability
-- Long lines (>100 chars): **2**
+- Long lines (>100 chars): **3**
 - Bare `except:` blocks: **0**
 - TODO/FIXME/HACK markers: **0**
 - Top-level `print(` calls: **4**
